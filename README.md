@@ -1,1 +1,1 @@
-# payment-orchestrator
+# MIni-Pay
